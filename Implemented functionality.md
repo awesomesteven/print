@@ -17,7 +17,7 @@ Functionality markdown
 |PC chair Functionality|Status|
 |-------------|------|
 |allocate paper to reviewers automatically (Steven)|	|
-|create personal discussion forum (steven)|	|
+|create personal discussion forum (steven)| I think it's done |
 |access forum for all papers except own (Steven)|	|
 |check status of review for  (Steven)| almost |
 |override paper allocation process (Steven)| |
