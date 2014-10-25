@@ -16,21 +16,22 @@ Functionality markdown
 
 |PC chair Functionality|Status|
 |-------------|------|
-|allocate paper to reviewers automatically|	|
-|access forum for all papers except own|	|
-|set max number of papers a specific reviewer can review|	|
-|set max number of reviewers for a paper|	|
-|approve/reject paper|	|
-|set global max number of papers a PC member can review (for all pc member)|	|
-|override paper allocation process|	|
-|invite new pc member|	|
-|check status of review for paper||
-|view details of PC members| done |
-|open/close rebuttal phase|done|
-|open/close discussion forum| done |
-|open/close submission|done|
-|open close paper bidding| done |
-|open close review acceptance| done|
+|allocate paper to reviewers automatically (Steven)|	|
+|create personal discussion forum (steven)|	|
+|access forum for all papers except own (Steven)|	|
+|check status of review for  (Steven)| almost |
+|override paper allocation process (Steven)| |
+|set max number of reviewers for a paper(Steven)| | 
+|approve/reject paper (Steven)| done |
+|invite new pc member (Steven)| done |
+|view details of PC members (Steven)| done |
+|set global max number of papers a PC member can review (for all pc member) (Steven)| done |
+|set max number of papers a specific reviewer can review (Steven)| done |
+|open/close rebuttal phase (Steven)|done|
+|open/close discussion forum (Steven)| done |
+|open/close submission (Steven)|done|
+|open close paper bidding (Steven)| done |
+|open close review acceptance (Steven)| done|
 
 |Admin Functionality|Status|
 |-------------|------|
@@ -42,7 +43,7 @@ Functionality markdown
 |approve new account (Tim)| Creating account?	|
 |assign roles to users (Tim)|	|
 |manage a conference (Tim)|	|
-|generate conference schedule (Tim)|	|
+|generate conference schedule (Tim)| |
 
 |PC member Functionality|Status|
 |-------------|------|
