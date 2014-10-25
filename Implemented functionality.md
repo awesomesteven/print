@@ -22,7 +22,7 @@ Functionality markdown
 |check status of review for  (Steven)| almost |
 |override paper allocation process (Steven)| |
 |set max number of reviewers for a paper(Steven)| done | 
-|approve/reject paper (Steven)| done |
+|approve/reject paper (Steven)| done | (Sequenced)
 |invite new pc member (Steven)| done |
 |view details of PC members (Steven)| done |
 |set global max number of papers a PC member can review (for all pc member) (Steven)| done |
