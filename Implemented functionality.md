@@ -21,17 +21,17 @@ Functionality markdown
 |access forum for all papers except own (Steven)|	|
 |check status of review for  (Steven)| almost |
 |override paper allocation process (Steven)| |
-|set max number of reviewers for a paper(Steven)| | 
+|set max number of reviewers for a paper(Steven)| done | 
 |approve/reject paper (Steven)| done |
 |invite new pc member (Steven)| done |
 |view details of PC members (Steven)| done |
 |set global max number of papers a PC member can review (for all pc member) (Steven)| done |
 |set max number of papers a specific reviewer can review (Steven)| done |
-|open/close rebuttal phase (Steven)|done|
+|open/close rebuttal phase (Steven)| done |
 |open/close discussion forum (Steven)| done |
 |open/close submission (Steven)|done|
 |open close paper bidding (Steven)| done |
-|open close review acceptance (Steven)| done|
+|open close review acceptance (Steven)| done |
 
 |Admin Functionality|Status|
 |-------------|------|
